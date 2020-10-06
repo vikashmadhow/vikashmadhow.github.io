@@ -19,6 +19,10 @@ A library for serializing (and deserializing) Java object graphs to various text
 as XML, JSON and YAML, useful for long-term storage with a focus on human readability and external modification.
 [Go to the long term serialization project repo](https://github.com/vikashmadhow/long-term-serialization)
 
+### Planned for release in coming weeks
+
+#### Source-independent imports
+#### ESQL, an extended SQL language
 
 ### Contact
 
