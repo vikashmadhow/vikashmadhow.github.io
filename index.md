@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Designs and code
 
-You can use the [editor on GitHub](https://github.com/vikashmadhow/vikashmadhow.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I'll post information on my designs and code here, especially on projects which I've released as open-source on github.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Ongoing projects
 
-### Markdown
+Below are a few of the projects which I've recently moved to github. In the coming weeks I intend to continue clean up and
+refactor some of my code into separate projects which I'll make available in the hope that they are useful to others. I'll
+spend some time documenting everything eventually.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Base
 
-```markdown
-Syntax highlighted code block
+A collection of data structures, algorithms and utility functions used by my other projects. 
+[Go to the Base project repo](https://github.com/vikashmadhow/base)
 
-# Header 1
-## Header 2
-### Header 3
+#### Long term serialization
 
-- Bulleted
-- List
+A library for serializing (and deserializing) Java object graphs to various text formats such 
+as XML, JSON and YAML, useful for long-term storage with a focus on human readability and external modification.
+[Go to the long term serialization project repo](https://github.com/vikashmadhow/long-term-serialization)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Contact
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vikashmadhow/vikashmadhow.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Linkedin profile](https://linkedin.com/in/vikashmadhow).
